@@ -30,4 +30,4 @@ The normalised part allows us to compute DCG values for different queries, as it
 | 3    | 3                | 3/3             | 3                                | 2/3                   | 4.67                                    | 0.64                                         |
 | 4    | 2                | 2/4             | 3.5                              | 0/4                   | 4.67                                    | 0.75                                         |
 
-Once we've computed NDCG values for each distinct query, we can average over all queries to quantity the overall relevance of our search engine.
+Once we've computed NDCG values for each distinct query, we can average over all queries to quantify the overall relevance of our search engine.
