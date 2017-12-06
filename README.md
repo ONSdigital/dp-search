@@ -1,6 +1,8 @@
 dp-search
 =========
 
+This document outlines the strategy for improving search relevance.
+
 Contents
 --------
 
