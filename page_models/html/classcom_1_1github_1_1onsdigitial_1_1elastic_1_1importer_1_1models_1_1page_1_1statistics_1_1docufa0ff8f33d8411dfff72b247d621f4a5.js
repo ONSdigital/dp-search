@@ -1,0 +1,22 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5 =
+[
+    [ "getCharts", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a47e0f8326469785463917029bca9cd07", null ],
+    [ "getDownloads", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a51f422b1f3d5382d0b7129853695305d", null ],
+    [ "getEquations", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#af08da9a6797d232063c289847ba4ab41", null ],
+    [ "getImages", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a85f6d0413d3ad43a5b64e84dea3b40f6", null ],
+    [ "getLinks", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a2a1379b6c6d9f2535469ab1ce9c11cf4", null ],
+    [ "getMarkdown", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a90a873fc229bcdb4bb3ed521ace4f22f", null ],
+    [ "getRelatedData", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a9d79155188846389c84bb49e068d4d28", null ],
+    [ "getRelatedDocuments", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a3f21e7cd654dca1647073bcb1a8c01b0", null ],
+    [ "getTables", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a8e5f46eea7d315307fbf667a3b00eaf8", null ],
+    [ "getType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a662064f3c3f40646cfa42bddd2e29094", null ],
+    [ "setCharts", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a3ac6299377996510c18a865a29ed43aa", null ],
+    [ "setDownloads", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a723100d363c22d304187e51a12a67a9d", null ],
+    [ "setEquations", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#ae21350a4f16a6b3ec9814416221e6b00", null ],
+    [ "setImages", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a461f1b90166ab4cda22c28f9b04b3e97", null ],
+    [ "setLinks", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#acff5f70240ea3800e1aa4e676aa5fea9", null ],
+    [ "setMarkdown", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#af16542cc81c483a9e72258b1260d4080", null ],
+    [ "setRelatedData", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#aeacab541a40a10697533d3605bdd97a9", null ],
+    [ "setRelatedDocuments", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a3970757e54075adcbbffee718d77663d", null ],
+    [ "setTables", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docufa0ff8f33d8411dfff72b247d621f4a5.html#a5bcdbe8006e8809416f592393dad0c54", null ]
+];

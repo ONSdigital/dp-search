@@ -1,0 +1,4 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_time_series_dataset =
+[
+    [ "getType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_time_series_dataset.html#a5d13707b6c64c8a9ecab433d97399a86", null ]
+];

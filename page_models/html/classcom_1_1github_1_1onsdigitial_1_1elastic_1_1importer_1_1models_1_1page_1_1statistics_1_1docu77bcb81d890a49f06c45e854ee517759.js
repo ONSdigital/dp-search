@@ -1,0 +1,9 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu77bcb81d890a49f06c45e854ee517759 =
+[
+    [ "getAspectRatio", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu77bcb81d890a49f06c45e854ee517759.html#a9a60432796961434199f3f5235fee59d", null ],
+    [ "getLabelInterval", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu77bcb81d890a49f06c45e854ee517759.html#a4dcb9058b16f72615d9fabb9616eb517", null ],
+    [ "isHidden", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu77bcb81d890a49f06c45e854ee517759.html#a06496ca13df80b3571914946ab363fbf", null ],
+    [ "setAspectRatio", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu77bcb81d890a49f06c45e854ee517759.html#ae30a301aeecb526501ff40271462ec30", null ],
+    [ "setHidden", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu77bcb81d890a49f06c45e854ee517759.html#aef3f5fc6d06aca90c19ed15eec8835c1", null ],
+    [ "setLabelInterval", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu77bcb81d890a49f06c45e854ee517759.html#a927033a418d7e02e74434180a0d3a520", null ]
+];

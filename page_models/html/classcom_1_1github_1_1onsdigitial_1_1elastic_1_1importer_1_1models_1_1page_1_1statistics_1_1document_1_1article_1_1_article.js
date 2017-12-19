@@ -1,0 +1,10 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1article_1_1_article =
+[
+    [ "getPdfTable", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1article_1_1_article.html#a4829a4e6778cd0a9142b8857da859202", null ],
+    [ "getPrototypeArticle", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1article_1_1_article.html#a83c303b7ab3be3c7681a5710031e06cb", null ],
+    [ "getRelatedArticles", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1article_1_1_article.html#a5d4c0745fdca901c83e5a4759991bbd0", null ],
+    [ "getType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1article_1_1_article.html#a16f9288bb1031bb6e04040316248b81c", null ],
+    [ "setPdfTable", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1article_1_1_article.html#a12485255876bc44a3126e93d608fa11b", null ],
+    [ "setPrototypeArticle", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1article_1_1_article.html#a465fe7b5ea924492c66b791ff96be5fe", null ],
+    [ "setRelatedArticles", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1article_1_1_article.html#a90944308eb1c0bd5afa821a5567b43f8", null ]
+];

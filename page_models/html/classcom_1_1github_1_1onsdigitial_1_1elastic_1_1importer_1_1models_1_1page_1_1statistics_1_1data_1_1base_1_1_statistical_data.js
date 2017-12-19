@@ -1,0 +1,13 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data =
+[
+    [ "getNotes", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#a24997e0fbd33594062e29e24cdb85b52", null ],
+    [ "getRelatedData", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#a39b837628c61ce9dc62863ec509a6464", null ],
+    [ "getRelatedDatasets", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#a025ae55bd605dfcf636e59800bd43c01", null ],
+    [ "getRelatedDocuments", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#ae0c38c4d7a98f5f0ec405442a020ba10", null ],
+    [ "getSection", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#a9c0f4be2402aaa86d7cec9c8c60dc6ff", null ],
+    [ "setNotes", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#a7edbf3259bdd3ba02b68555f60ec1c88", null ],
+    [ "setRelatedData", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#a1ce1c60e22adb313c146d73a32b5ba88", null ],
+    [ "setRelatedDatasets", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#a9f09278c1098c794ee9faf50192bb00c", null ],
+    [ "setRelatedDocuments", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#a45cf7a09ddc577d360f61289a4cdd48a", null ],
+    [ "setSection", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1base_1_1_statistical_data.html#ad4a091718a00f4d22a3ec6a540580c56", null ]
+];

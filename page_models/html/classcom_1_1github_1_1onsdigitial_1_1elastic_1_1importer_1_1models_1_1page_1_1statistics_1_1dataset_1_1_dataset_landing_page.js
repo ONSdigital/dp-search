@@ -1,0 +1,20 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page =
+[
+    [ "getDatasets", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a6fc4c2ed3c7e99c90a418faa9523f559", null ],
+    [ "getDownloads", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a6349cff986ab6f3ef90136875c0fc447", null ],
+    [ "getLinks", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a7ae6fc1db51df17714cbb6029a13f35f", null ],
+    [ "getNotes", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#ad0dc05928e21a237dc3915504a0eb7b7", null ],
+    [ "getRelatedDatasets", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a28ece969c2426e55ab342bdff67546bc", null ],
+    [ "getRelatedDocuments", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#adf7adef09c30d6d721d7d7461924b80c", null ],
+    [ "getSection", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#ab77abf6295a93a92af6d4520b6e7095d", null ],
+    [ "getTimeseries", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a8b894314b91d13192c7a439fa80de692", null ],
+    [ "getType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a13c149299094e9f2f007fdf4c641107f", null ],
+    [ "setDatasets", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a670da4e6ca42964ffe39b3e08fe8af20", null ],
+    [ "setDownloads", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a21441c2330d5658583a9ca7d47a3aaec", null ],
+    [ "setLinks", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a1ee31ae3a8951c62e6c034516f365812", null ],
+    [ "setNotes", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a677b00adcf8c21460752d86a24920ca0", null ],
+    [ "setRelatedDatasets", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a92e2143b78dbea79ba82be515096d93d", null ],
+    [ "setRelatedDocuments", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a038c52ca14ef40dee4233427c06af02f", null ],
+    [ "setSection", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#ab193795696fef8b608fd40d7cf2dc046", null ],
+    [ "setTimeseries", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1dataset_1_1_dataset_landing_page.html#a553d3963b56b1df2fa995ea3058e7493", null ]
+];

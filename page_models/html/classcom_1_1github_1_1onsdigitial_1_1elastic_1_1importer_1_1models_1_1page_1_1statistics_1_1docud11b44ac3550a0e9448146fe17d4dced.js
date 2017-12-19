@@ -1,0 +1,9 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docud11b44ac3550a0e9448146fe17d4dced =
+[
+    [ "getFilename", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docud11b44ac3550a0e9448146fe17d4dced.html#a43e7f736622cc005be5626424673c0f5", null ],
+    [ "getFileType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docud11b44ac3550a0e9448146fe17d4dced.html#a846284211b710643262b58f6b91dbdd4", null ],
+    [ "getType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docud11b44ac3550a0e9448146fe17d4dced.html#ac651ef798957171d464d30e2204a8768", null ],
+    [ "setFilename", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docud11b44ac3550a0e9448146fe17d4dced.html#a6aa271cb0d607edf60e5d57ceecb6085", null ],
+    [ "setFileType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docud11b44ac3550a0e9448146fe17d4dced.html#a7f1d8b23277962974e8475c1d37b8c65", null ],
+    [ "setType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docud11b44ac3550a0e9448146fe17d4dced.html#ab3ae0c7218291dd34b1057261ad2b1e0", null ]
+];

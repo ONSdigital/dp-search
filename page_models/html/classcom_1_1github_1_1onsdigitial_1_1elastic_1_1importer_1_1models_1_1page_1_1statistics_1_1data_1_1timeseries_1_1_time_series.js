@@ -1,0 +1,17 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series =
+[
+    [ "add", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#a00adf8156edb457acc7002d768d50da2", null ],
+    [ "compareTo", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#a0b1fa8aba097aced0baa758cad3a964f", null ],
+    [ "equals", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#a9329d76da65c59201230683ffb636098", null ],
+    [ "getCdid", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#abfd043010bb6af47e3377022037fe14c", null ],
+    [ "getScaleFactor", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#aeeb00393d11a0beef990fc768e50fb32", null ],
+    [ "getType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#a7572774bc13ae29cf193cea2e0daa0e0", null ],
+    [ "hashCode", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#ad7b1380a95d50595ea034a5e032eb387", null ],
+    [ "setCdid", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#af366b8407ff5639613e0e313e5092acd", null ],
+    [ "setScaleFactor", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#abffc80cd2da08cbdf499cc6c3e822241", null ],
+    [ "toString", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#ab05a7ef0c06ffc40eddbfe18494ccef3", null ],
+    [ "months", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#ad46513bcfd1038423445a7cf2e7d28a2", null ],
+    [ "quarters", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#a458d54a7b6389dbd7b66cc792e471855", null ],
+    [ "sourceDatasets", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#a3f0358aa6745ae16d639628db7ee088c", null ],
+    [ "years", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1timeseries_1_1_time_series.html#ac44485171cb794ffe558b5fb76eaad14", null ]
+];

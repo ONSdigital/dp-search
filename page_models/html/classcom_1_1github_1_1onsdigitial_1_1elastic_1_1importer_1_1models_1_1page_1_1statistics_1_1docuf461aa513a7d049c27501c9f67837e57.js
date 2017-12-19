@@ -1,0 +1,12 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57 =
+[
+    [ "getHeaderColumns", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57.html#ac601c240745fb524092003ef5da5a0ef", null ],
+    [ "getHeaderRows", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57.html#af212ad41199b930ab8cebecb8d0bf49c", null ],
+    [ "getRowsExcluded", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57.html#afc5cb0f76a2c67993cd6796dbdd1adb1", null ],
+    [ "modificationsExist", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57.html#ac8c1d97e57ef6c3b5e071afab4bc8fbc", null ],
+    [ "setHeaderColumns", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57.html#a3d59a19d36806e3b33d37cb32c0d356c", null ],
+    [ "setHeaderRows", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57.html#a4e682f7fc9913ef7ab2dc19216ae085e", null ],
+    [ "setRowsExcluded", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57.html#a7d2ffe0e7d75ef2f9d86bd75a1e933c8", null ],
+    [ "sorted", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57.html#a632b5dfeee766e7174916b5c2aaf88c5", null ],
+    [ "summary", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docuf461aa513a7d049c27501c9f67837e57.html#a6e34e7f0de07787cd979cf181de2103d", null ]
+];

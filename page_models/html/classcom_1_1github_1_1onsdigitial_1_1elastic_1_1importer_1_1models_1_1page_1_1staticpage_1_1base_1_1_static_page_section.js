@@ -1,0 +1,7 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1staticpage_1_1base_1_1_static_page_section =
+[
+    [ "StaticPageSection", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1staticpage_1_1base_1_1_static_page_section.html#a7d0610092b48a086203e87659cabc1f2", null ],
+    [ "StaticPageSection", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1staticpage_1_1base_1_1_static_page_section.html#a50712f3b036d44d316010da3ec60c9c5", null ],
+    [ "getSummary", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1staticpage_1_1base_1_1_static_page_section.html#acd99fe4c0250cd79e08f1f2b48100bda", null ],
+    [ "setSummary", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1staticpage_1_1base_1_1_static_page_section.html#af0a58952bd3f059f9e1b2c6912f50389", null ]
+];

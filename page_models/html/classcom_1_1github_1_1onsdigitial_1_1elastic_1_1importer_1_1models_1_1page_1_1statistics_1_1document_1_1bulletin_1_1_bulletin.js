@@ -1,0 +1,8 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1bulletin_1_1_bulletin =
+[
+    [ "getPdfTable", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1bulletin_1_1_bulletin.html#a6a1381a70949991123e269da6c69553b", null ],
+    [ "getRelatedBulletins", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1bulletin_1_1_bulletin.html#a881c270a87c6f3baf0850b0ceefac853", null ],
+    [ "getType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1bulletin_1_1_bulletin.html#a3d1638b19abd6380c892f12fd355ccc9", null ],
+    [ "setPdfTable", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1bulletin_1_1_bulletin.html#a839f86993008514ff092d8e103320881", null ],
+    [ "setRelatedBulletins", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1document_1_1bulletin_1_1_bulletin.html#a5866e024bb6b23896293b8e11615c7e1", null ]
+];

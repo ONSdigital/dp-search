@@ -1,0 +1,9 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu5ac8bff76427cf76df58773822b5636e =
+[
+    [ "getId", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu5ac8bff76427cf76df58773822b5636e.html#ac3fe3aa9558108325ee5424fbc51c949", null ],
+    [ "getX", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu5ac8bff76427cf76df58773822b5636e.html#a5a5e42b7e9278298ca58c027b29eba28", null ],
+    [ "getY", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu5ac8bff76427cf76df58773822b5636e.html#afefc4416bfabc8df298a077186b85cef", null ],
+    [ "setId", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu5ac8bff76427cf76df58773822b5636e.html#a5e89a05fd8522729c7ef492b45b57553", null ],
+    [ "setX", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu5ac8bff76427cf76df58773822b5636e.html#a814bc94db3b98500460d55cbea15ee25", null ],
+    [ "setY", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1docu5ac8bff76427cf76df58773822b5636e.html#a65606cb87a916028b24efe8dd9350515", null ]
+];

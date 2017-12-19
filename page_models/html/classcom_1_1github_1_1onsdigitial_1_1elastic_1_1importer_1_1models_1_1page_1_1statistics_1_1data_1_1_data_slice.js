@@ -1,0 +1,4 @@
+var classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1_data_slice =
+[
+    [ "getType", "classcom_1_1github_1_1onsdigitial_1_1elastic_1_1importer_1_1models_1_1page_1_1statistics_1_1data_1_1_data_slice.html#ad12a98486cf34407657b703c22a5d704", null ]
+];
