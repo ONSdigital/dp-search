@@ -2,6 +2,8 @@
 =====================================
 In this section, we detail the machine learning algorithms deployed to learn what makes a search hit relevant.
 
+We use the Elasticsearch [learning to rank](https://github.com/o19s/elasticsearch-learning-to-rank) plugin, which is distributed under the Apache License 2.0.
+
 Below, we show kernel density estimates of the Probability distribution functions (PDFs) for user judgement and each feature for an example feature/training set. This plot can be used to check how well a given training set maps onto the user perceived judgement, and therefore should be a good indicator of how well our models perform in production. The ipython notebook used to produce this plot can be found [here](https://github.com/sully90/dp-search-service/blob/master/src/main/python/Training%20Data%20Analysis.ipynb). Note, features 4 and 6 are not triggered for this particular query (not true generally), hence these panels are left blank intentionally.
 
 ![Image](./training_analysis_example.png)
