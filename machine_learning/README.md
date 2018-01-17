@@ -2,6 +2,9 @@
 =====================================
 In this section, we detail the machine learning algorithms deployed to learn what makes a search hit relevant.
 
+Below, we show kernel density estimates of the Probability distribution functions (PDFs) of judgements and all features for an example feature set and training set. This plot can be used to check how well a given training set maps onto the user perceived judgement, and therefore should be a good indicator of how well our models perform in production. The ipython notebook used to produce this plot can be found [here](https://github.com/sully90/dp-search-service/blob/master/src/main/python/Training%20Data%20Analysis.ipynb).
+![Image](./training_analysis_example.png)
+
 # References
 * [1] C.J.C. Burges, T. Shaked, E. Renshaw, A. Lazier, M. Deeds, N. Hamilton and G. Hullender. Learning to rank using gradient descent. In Proc. of ICML, pages 89-96, 2005.
 * [2] Y. Freund, R. Iyer, R. Schapire, and Y. Singer. An efficient boosting algorithm for combining preferences. The Journal of Machine Learning Research, 4: 933-969, 2003.
