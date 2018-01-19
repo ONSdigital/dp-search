@@ -10,7 +10,12 @@ Below, we show kernel density estimates of the Probability distribution function
 
 TODO
 ====
-* Implement neural network to decide which model to use for a particular query id/string
+Implement neural network to decide which model to use for a particular query id/string.
+Possible training features:
+* Length of query (some models may perform better for short/long queries)
+* Number of named entities in query
+* Query id/string
+
 
 # References
 * [1] C.J.C. Burges, T. Shaked, E. Renshaw, A. Lazier, M. Deeds, N. Hamilton and G. Hullender. Learning to rank using gradient descent. In Proc. of ICML, pages 89-96, 2005.
