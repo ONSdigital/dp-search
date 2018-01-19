@@ -8,6 +8,10 @@ Below, we show kernel density estimates of the Probability distribution function
 
 ![Image](./training_analysis_example.png)
 
+TODO
+====
+* Implement neural network to decide which model to use for a particular query id/string
+
 # References
 * [1] C.J.C. Burges, T. Shaked, E. Renshaw, A. Lazier, M. Deeds, N. Hamilton and G. Hullender. Learning to rank using gradient descent. In Proc. of ICML, pages 89-96, 2005.
 * [2] Y. Freund, R. Iyer, R. Schapire, and Y. Singer. An efficient boosting algorithm for combining preferences. The Journal of Machine Learning Research, 4: 933-969, 2003.
